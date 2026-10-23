@@ -1,0 +1,11 @@
+sample_id,filename,true_class,majority_prediction,majority_count,correct_model_count,incorrect_model_count,correct_models,incorrect_models,distinct_predictions,all_models_correct,all_models_agree,mean_confidence,mean_wrong_prediction_confidence,difficulty_score
+XAI_01,2658_left.jpg,N,N,5,5,1,"ResNet-50, ViT-B/16, InceptionV3, VGG16, VGG19",Xception,2,False,False,0.7368052750825882,0.7383413314819336,5
+XAI_02,_114_3613830.jpg,C,C,6,6,0,"ResNet-50, ViT-B/16, InceptionV3, VGG16, VGG19, Xception",None,1,True,True,0.9986484944820404,,6
+XAI_03,2675_left.jpg,N,N,5,5,1,"ResNet-50, ViT-B/16, VGG16, VGG19, Xception",InceptionV3,2,False,False,0.8944207429885864,0.6847413182258606,5
+XAI_04,Glaucoma156.jpg,G,G,5,5,1,"ResNet-50, ViT-B/16, VGG16, VGG19, Xception",InceptionV3,2,False,False,0.8871993273496628,0.36236771941185,5
+XAI_05,926_left.jpg,D,D,6,6,0,"ResNet-50, ViT-B/16, InceptionV3, VGG16, VGG19, Xception",None,1,True,True,0.9594058295090994,,6
+XAI_06,791_left.jpg,D,D,6,6,0,"ResNet-50, ViT-B/16, InceptionV3, VGG16, VGG19, Xception",None,1,True,True,0.927780419588089,,6
+XAI_07,Glaucoma561.jpg,G,G,6,6,0,"ResNet-50, ViT-B/16, InceptionV3, VGG16, VGG19, Xception",None,1,True,True,0.9476073880990347,,6
+XAI_08,2703_left.jpg,N,N,6,6,0,"ResNet-50, ViT-B/16, InceptionV3, VGG16, VGG19, Xception",None,1,True,True,0.7617552479108175,,6
+XAI_09,3261_left.jpg,N,N,5,5,1,"ResNet-50, ViT-B/16, VGG16, VGG19, Xception",InceptionV3,2,False,False,0.9015134871006012,0.6542804837226868,5
+XAI_10,0_ORID19_212_ARMD.png,A,A,5,5,1,"ResNet-50, ViT-B/16, VGG16, VGG19, Xception",InceptionV3,2,False,False,0.9222064316272736,0.6070412993431091,5

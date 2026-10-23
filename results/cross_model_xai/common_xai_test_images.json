@@ -1,0 +1,62 @@
+[
+    {
+        "sample_id": "XAI_01",
+        "filename": "2658_left.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\N\\2658_left.jpg",
+        "true_class": "N"
+    },
+    {
+        "sample_id": "XAI_02",
+        "filename": "_114_3613830.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\C\\_114_3613830.jpg",
+        "true_class": "C"
+    },
+    {
+        "sample_id": "XAI_03",
+        "filename": "2675_left.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\N\\2675_left.jpg",
+        "true_class": "N"
+    },
+    {
+        "sample_id": "XAI_04",
+        "filename": "Glaucoma156.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\G\\Glaucoma156.jpg",
+        "true_class": "G"
+    },
+    {
+        "sample_id": "XAI_05",
+        "filename": "926_left.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\D\\926_left.jpg",
+        "true_class": "D"
+    },
+    {
+        "sample_id": "XAI_06",
+        "filename": "791_left.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\D\\791_left.jpg",
+        "true_class": "D"
+    },
+    {
+        "sample_id": "XAI_07",
+        "filename": "Glaucoma561.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\G\\Glaucoma561.jpg",
+        "true_class": "G"
+    },
+    {
+        "sample_id": "XAI_08",
+        "filename": "2703_left.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\N\\2703_left.jpg",
+        "true_class": "N"
+    },
+    {
+        "sample_id": "XAI_09",
+        "filename": "3261_left.jpg",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\N\\3261_left.jpg",
+        "true_class": "N"
+    },
+    {
+        "sample_id": "XAI_10",
+        "filename": "0_ORID19_212_ARMD.png",
+        "path": "D:\\gpt\\OcuVision-AI\\data\\preprocessed\\A\\0_ORID19_212_ARMD.png",
+        "true_class": "A"
+    }
+]

@@ -1,0 +1,11 @@
+sample_id,filename,true_class,prediction,confidence,correct,attention_path
+XAI_01,2658_left.jpg,N,N,0.6164705157279968,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_01_2658_left_attention.png
+XAI_02,_114_3613830.jpg,C,C,0.9996533393859863,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_02__114_3613830_attention.png
+XAI_03,2675_left.jpg,N,N,0.960742175579071,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_03_2675_left_attention.png
+XAI_04,Glaucoma156.jpg,G,G,0.983553409576416,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_04_Glaucoma156_attention.png
+XAI_05,926_left.jpg,D,D,0.9754288196563721,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_05_926_left_attention.png
+XAI_06,791_left.jpg,D,D,0.8047588467597961,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_06_791_left_attention.png
+XAI_07,Glaucoma561.jpg,G,G,0.9960139989852905,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_07_Glaucoma561_attention.png
+XAI_08,2703_left.jpg,N,N,0.8903778791427612,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_08_2703_left_attention.png
+XAI_09,3261_left.jpg,N,N,0.85373854637146,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_09_3261_left_attention.png
+XAI_10,0_ORID19_212_ARMD.png,A,A,0.9830504059791565,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\vit_b16\XAI_10_0_ORID19_212_ARMD_attention.png

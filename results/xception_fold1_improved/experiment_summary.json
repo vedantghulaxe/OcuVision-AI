@@ -1,0 +1,16 @@
+{
+  "experiment": "Xception improved, fold 1",
+  "best_epoch": 4,
+  "epochs_completed": 9,
+  "best_validation_macro_f1": 0.8491736638538894,
+  "best_validation_accuracy": 0.837852206273259,
+  "best_validation_macro_precision": 0.8653757376770397,
+  "best_validation_macro_recall": 0.8415946509099637,
+  "best_validation_weighted_f1": 0.8377091812586148,
+  "training_minutes": 101.76,
+  "training_images": 7523,
+  "validation_images": 1881,
+  "reserved_test_images": 1045,
+  "test_evaluated": false,
+  "checkpoint": "D:\\gpt\\OcuVision-AI\\models\\xception_fold1_improved_best_checkpoint.pth"
+}

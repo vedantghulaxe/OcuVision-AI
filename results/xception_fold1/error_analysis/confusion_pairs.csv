@@ -1,0 +1,15 @@
+true_label,predicted_label,error_count,true_class_name,predicted_class_name
+D,N,80,Diabetes,Normal
+D,G,15,Diabetes,Glaucoma
+G,M,15,Glaucoma,Myopia
+G,N,13,Glaucoma,Normal
+N,D,13,Normal,Diabetes
+M,G,13,Myopia,Glaucoma
+N,G,13,Normal,Glaucoma
+H,N,10,Hypertension,Normal
+N,M,6,Normal,Myopia
+D,M,5,Diabetes,Myopia
+H,D,4,Hypertension,Diabetes
+G,D,2,Glaucoma,Diabetes
+M,N,2,Myopia,Normal
+M,D,1,Myopia,Diabetes

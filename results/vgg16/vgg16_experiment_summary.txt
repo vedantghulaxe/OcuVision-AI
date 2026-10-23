@@ -1,0 +1,65 @@
+
+VGG16 Experiment Summary
+=========================
+
+Model:
+VGG16 pretrained on ImageNet
+
+Dataset:
+ODIR-5K preprocessed ocular disease dataset
+
+Classes:
+N, D, G, C, A, H, M
+
+Dataset split:
+Train: 8359
+Validation: 1045
+Test: 1045
+
+Random seed:
+42
+
+Input size:
+224 x 224
+
+Batch size:
+16
+
+Optimizer:
+AdamW
+
+Learning rate:
+1e-4
+
+Weight decay:
+1e-4
+
+Number of epochs:
+10
+
+Best validation epoch:
+7
+
+Best validation Macro F1:
+82.73%
+
+Final Test Results
+------------------
+
+Test Loss:
+0.4463
+
+Accuracy:
+84.88%
+
+Macro Precision:
+87.19%
+
+Macro Recall:
+83.18%
+
+Macro F1:
+84.88%
+
+Weighted F1:
+84.86%

@@ -1,0 +1,2 @@
+model,fold,epochs_run,best_epoch,best_validation_macro_f1,test_images,test_accuracy_percent,test_macro_precision_percent,test_macro_recall_percent,test_macro_f1_percent,test_weighted_f1_percent
+Xception,1,3,3,0.836447134961518,1045,81.62679425837321,86.98360322623797,83.4481162374874,84.30559065062226,81.5999986587773

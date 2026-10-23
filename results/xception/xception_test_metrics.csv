@@ -1,0 +1,2 @@
+model,best_epoch,best_validation_macro_f1,test_images,accuracy_percent,macro_precision_percent,macro_recall_percent,macro_f1_percent,weighted_f1_percent
+Xception,3,0.8254719616806618,1045,81.24401913875599,83.49384821190594,83.56957295224248,83.46992968245122,81.23559120580381

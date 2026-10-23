@@ -1,0 +1,11 @@
+gradcam_file,image_id,true_class,predicted_class,confidence,correct,focus_quality,relevant_region,background_focus,visual_comment
+gradcam_01.png,Myopia282.jpg,M,G,0.677764892578125,False,Moderate,Yes,Moderate,"Main activation is within the fundus, but there is additional activation near image boundaries."
+gradcam_02.png,cataract_053.png,C,C,0.9957626461982728,True,Good,Yes,Low,"Strong, concentrated activation within the ocular region."
+gradcam_03.png,488_left.jpg,N,N,0.9897704124450684,True,Good,Yes,Moderate,"Main activation is appropriately inside the fundus, with some corner activation."
+gradcam_04.png,0_RFiMD_90_ARMD.png,A,A,0.99907124042511,True,Good,Yes,Low,Activation is strongly concentrated within the retinal image region.
+gradcam_05.png,_57_8463167.jpg,C,C,0.8774202466011047,True,Moderate,Yes,Moderate,Broad activation across the fundus; less localized than some other samples.
+gradcam_06.png,291_right.jpg,D,D,0.5984339714050293,True,Moderate,Yes,Moderate,"Main activation is inside the fundus, but there is noticeable activation near the lower image boundary."
+gradcam_07.png,4341_left.jpg,D,D,0.9937485456466676,True,Good,Yes,Low,Strong activation remains within the ocular image and is associated with a correct high-confidence prediction.
+gradcam_08.png,DR1014.jpg,D,D,0.9997630715370178,True,Good,Yes,Low,Strong localized activation within the retinal region and very high-confidence correct prediction.
+gradcam_09.png,2432_right.jpg,N,N,0.6554185748100281,True,Moderate,Yes,Moderate,"Main activation is within the fundus, but corner artifacts are visible."
+gradcam_10.png,Glaucoma29.jpg,G,G,0.9965434670448304,True,Good,Yes,Low,Strong activation concentrated within the ocular region with little obvious external activation.

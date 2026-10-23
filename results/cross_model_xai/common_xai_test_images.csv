@@ -1,0 +1,11 @@
+sample_id,filename,path,true_class
+XAI_01,2658_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\N\2658_left.jpg,N
+XAI_02,_114_3613830.jpg,D:\gpt\OcuVision-AI\data\preprocessed\C\_114_3613830.jpg,C
+XAI_03,2675_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\N\2675_left.jpg,N
+XAI_04,Glaucoma156.jpg,D:\gpt\OcuVision-AI\data\preprocessed\G\Glaucoma156.jpg,G
+XAI_05,926_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\D\926_left.jpg,D
+XAI_06,791_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\D\791_left.jpg,D
+XAI_07,Glaucoma561.jpg,D:\gpt\OcuVision-AI\data\preprocessed\G\Glaucoma561.jpg,G
+XAI_08,2703_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\N\2703_left.jpg,N
+XAI_09,3261_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\N\3261_left.jpg,N
+XAI_10,0_ORID19_212_ARMD.png,D:\gpt\OcuVision-AI\data\preprocessed\A\0_ORID19_212_ARMD.png,A

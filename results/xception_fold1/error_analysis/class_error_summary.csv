@@ -1,0 +1,8 @@
+class,class_name,test_images,correct,incorrect,false_positives,recall_percent,precision_percent,f1_percent,mean_confidence_on_errors_percent
+N,Normal,300,268,32,105,89.33,71.85,79.64,66.43
+D,Diabetes,313,213,100,20,68.05,91.42,78.02,67.93
+G,Glaucoma,164,134,30,41,81.71,76.57,79.06,69.72
+C,Cataract,101,101,0,0,100.0,100.0,100.0,
+A,AMD,51,51,0,0,100.0,100.0,100.0,
+H,Hypertension,42,28,14,0,66.67,100.0,80.0,60.98
+M,Myopia,74,58,16,26,78.38,69.05,73.42,72.91

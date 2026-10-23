@@ -1,0 +1,7 @@
+model,test_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+ResNet-50,81.24,81.07,85.51,82.58,81.3
+ViT-B/16,77.7,83.08,79.58,80.61,77.84
+InceptionV3,,,,,
+VGG16,,,,,
+VGG19,,,,,
+Xception,,,,,

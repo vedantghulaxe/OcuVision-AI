@@ -1,0 +1,11 @@
+gradcam_file,image_id,image_path,true_class,predicted_class,confidence,correct
+gradcam_01.png,Myopia282.jpg,D:\gpt\OcuVision-AI\data\preprocessed\M\Myopia282.jpg,M,G,0.677764892578125,False
+gradcam_02.png,cataract_053.png,D:\gpt\OcuVision-AI\data\preprocessed\C\cataract_053.png,C,C,0.9957626461982727,True
+gradcam_03.png,488_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\N\488_left.jpg,N,N,0.9897704124450684,True
+gradcam_04.png,0_RFiMD_90_ARMD.png,D:\gpt\OcuVision-AI\data\preprocessed\A\0_RFiMD_90_ARMD.png,A,A,0.9990712404251099,True
+gradcam_05.png,_57_8463167.jpg,D:\gpt\OcuVision-AI\data\preprocessed\C\_57_8463167.jpg,C,C,0.8774202466011047,True
+gradcam_06.png,291_right.jpg,D:\gpt\OcuVision-AI\data\preprocessed\D\291_right.jpg,D,D,0.5984339714050293,True
+gradcam_07.png,4341_left.jpg,D:\gpt\OcuVision-AI\data\preprocessed\D\4341_left.jpg,D,D,0.9937485456466675,True
+gradcam_08.png,DR1014.jpg,D:\gpt\OcuVision-AI\data\preprocessed\D\DR1014.jpg,D,D,0.9997630715370178,True
+gradcam_09.png,2432_right.jpg,D:\gpt\OcuVision-AI\data\preprocessed\N\2432_right.jpg,N,N,0.6554185748100281,True
+gradcam_10.png,Glaucoma29.jpg,D:\gpt\OcuVision-AI\data\preprocessed\G\Glaucoma29.jpg,G,G,0.9965434670448303,True

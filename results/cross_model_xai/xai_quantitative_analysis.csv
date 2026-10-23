@@ -1,0 +1,11 @@
+sample_id,filename,true_class,resnet50_prediction,vit_b16_prediction,inception_v3_prediction,vgg16_prediction,vgg19_prediction,xception_prediction,majority_prediction,majority_agreement,all_models_agree,correct_models,model_accuracy_on_image,comparison_panel,incorrect_models,number_of_distinct_predictions,all_models_correct,all_models_wrong
+XAI_01,2658_left.jpg,N,N,N,N,N,N,D,N,0.8333333333333334,False,5,0.8333333333333334,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_01_2658_left_six_model_comparison.png,1,2,False,False
+XAI_02,_114_3613830.jpg,C,C,C,C,C,C,C,C,1.0,True,6,1.0,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_02__114_3613830_six_model_comparison.png,0,1,True,False
+XAI_03,2675_left.jpg,N,N,N,D,N,N,N,N,0.8333333333333334,False,5,0.8333333333333334,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_03_2675_left_six_model_comparison.png,1,2,False,False
+XAI_04,Glaucoma156.jpg,G,G,G,D,G,G,G,G,0.8333333333333334,False,5,0.8333333333333334,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_04_Glaucoma156_six_model_comparison.png,1,2,False,False
+XAI_05,926_left.jpg,D,D,D,D,D,D,D,D,1.0,True,6,1.0,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_05_926_left_six_model_comparison.png,0,1,True,False
+XAI_06,791_left.jpg,D,D,D,D,D,D,D,D,1.0,True,6,1.0,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_06_791_left_six_model_comparison.png,0,1,True,False
+XAI_07,Glaucoma561.jpg,G,G,G,G,G,G,G,G,1.0,True,6,1.0,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_07_Glaucoma561_six_model_comparison.png,0,1,True,False
+XAI_08,2703_left.jpg,N,N,N,N,N,N,N,N,1.0,True,6,1.0,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_08_2703_left_six_model_comparison.png,0,1,True,False
+XAI_09,3261_left.jpg,N,N,N,D,N,N,N,N,0.8333333333333334,False,5,0.8333333333333334,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_09_3261_left_six_model_comparison.png,1,2,False,False
+XAI_10,0_ORID19_212_ARMD.png,A,A,A,C,A,A,A,A,0.8333333333333334,False,5,0.8333333333333334,D:\gpt\OcuVision-AI\results\cross_model_xai\comparison_panels\XAI_10_0_ORID19_212_ARMD_six_model_comparison.png,1,2,False,False

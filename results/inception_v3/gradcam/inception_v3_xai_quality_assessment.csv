@@ -1,0 +1,11 @@
+sample,image,true_class,predicted_class,confidence,correct,attention_signal,xai_quality
+1,2658_left.jpg,N,N,0.484409749507904,True,0.13913254,Moderate
+2,cataract_024.png,C,C,0.8043550252914429,True,0.1813754,Good
+3,2675_left.jpg,N,D,0.6857687830924988,False,0.12110536,Moderate
+4,Glaucoma156.jpg,G,D,0.3620887994766235,False,0.13235568,Moderate
+5,926_left.jpg,D,D,0.9530757665634156,True,0.13031197,Moderate
+6,791_left.jpg,D,D,0.7677906155586243,True,0.13357969,Moderate
+7,Glaucoma561.jpg,G,G,0.7469196915626526,True,0.13155425,Moderate
+8,2703_left.jpg,N,N,0.4556491374969482,True,0.1306882,Moderate
+9,3261_left.jpg,N,D,0.653887927532196,False,0.12425026,Moderate
+10,0_ORID19_193_ARMD.png,A,C,0.6289464235305786,False,0.15521829,Moderate

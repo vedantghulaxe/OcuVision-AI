@@ -1,0 +1,11 @@
+sample,image_path,true_class,predicted_class,confidence,correct,gradcam_path
+1,D:\gpt\OcuVision-AI\data\preprocessed\C\_335_9176239.jpg,C,C,1.0,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\01_C_C_100.00.png
+2,D:\gpt\OcuVision-AI\data\preprocessed\G\Glaucoma521.jpg,G,G,0.9904077649116516,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\02_G_G_99.04.png
+3,D:\gpt\OcuVision-AI\data\preprocessed\D\DR318.jpg,D,D,0.9992941617965698,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\03_D_D_99.93.png
+4,D:\gpt\OcuVision-AI\data\preprocessed\M\Myopia195.jpg,M,M,0.5316740870475769,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\04_M_M_53.17.png
+5,D:\gpt\OcuVision-AI\data\preprocessed\D\DR1199.jpg,D,D,0.9999969005584717,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\05_D_D_100.00.png
+6,D:\gpt\OcuVision-AI\data\preprocessed\D\3977_left.jpg,D,N,0.7295706272125244,False,D:\gpt\OcuVision-AI\results\vgg19\gradcam\06_D_N_72.96.png
+7,D:\gpt\OcuVision-AI\data\preprocessed\D\DR145.jpg,D,D,0.9999979734420776,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\07_D_D_100.00.png
+8,D:\gpt\OcuVision-AI\data\preprocessed\G\Glaucoma175.jpg,G,G,0.9977926015853882,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\08_G_G_99.78.png
+9,D:\gpt\OcuVision-AI\data\preprocessed\N\2927_left.jpg,N,N,0.8767579793930054,True,D:\gpt\OcuVision-AI\results\vgg19\gradcam\09_N_N_87.68.png
+10,D:\gpt\OcuVision-AI\data\preprocessed\D\DR819.jpg,D,G,0.6253021359443665,False,D:\gpt\OcuVision-AI\results\vgg19\gradcam\10_D_G_62.53.png

@@ -1,0 +1,12 @@
+{
+    "model": "VGG16",
+    "test_loss": 0.44626872493889913,
+    "accuracy": 0.8488038277511962,
+    "macro_precision": 0.8719163576540161,
+    "macro_recall": 0.831779676082585,
+    "macro_f1": 0.8488002804048069,
+    "weighted_f1": 0.8486138177456216,
+    "best_validation_macro_f1": 0.8272706276268964,
+    "best_epoch": 7,
+    "test_samples": 1045
+}

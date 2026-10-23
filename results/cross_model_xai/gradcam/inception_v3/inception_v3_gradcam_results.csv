@@ -1,0 +1,11 @@
+sample_id,filename,true_class,prediction,confidence,correct,gradcam_path
+XAI_01,2658_left.jpg,N,N,0.48438677191734314,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_01_2658_left_gradcam.png
+XAI_02,_114_3613830.jpg,C,C,0.9933518171310425,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_02__114_3613830_gradcam.png
+XAI_03,2675_left.jpg,N,D,0.6847413182258606,False,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_03_2675_left_gradcam.png
+XAI_04,Glaucoma156.jpg,G,D,0.36236771941185,False,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_04_Glaucoma156_gradcam.png
+XAI_05,926_left.jpg,D,D,0.9530035853385925,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_05_926_left_gradcam.png
+XAI_06,791_left.jpg,D,D,0.7688159346580505,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_06_791_left_gradcam.png
+XAI_07,Glaucoma561.jpg,G,G,0.7467560172080994,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_07_Glaucoma561_gradcam.png
+XAI_08,2703_left.jpg,N,N,0.45713120698928833,True,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_08_2703_left_gradcam.png
+XAI_09,3261_left.jpg,N,D,0.6542804837226868,False,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_09_3261_left_gradcam.png
+XAI_10,0_ORID19_212_ARMD.png,A,C,0.6070412993431091,False,D:\gpt\OcuVision-AI\results\cross_model_xai\gradcam\inception_v3\XAI_10_0_ORID19_212_ARMD_gradcam.png

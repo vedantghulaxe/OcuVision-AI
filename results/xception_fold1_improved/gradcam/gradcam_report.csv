@@ -1,0 +1,17 @@
+image_path,true_label,csv_predicted_label,gradcam_target_class,model_confidence_percent,csv_confidence_percent,correct,gradcam_file
+D:\gpt\OcuVision-AI\data\preprocessed\D\1364_right.jpg,D,M,M,99.708,99.71,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\01_D_to_M_1364_right_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\M\Myopia103.jpg,M,G,G,99.681,99.68,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\02_M_to_G_Myopia103_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\N\2640_right.jpg,N,M,M,99.537,99.54,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\03_N_to_M_2640_right_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\G\Glaucoma316.jpg,G,D,D,99.241,99.24,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\04_G_to_D_Glaucoma316_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\M\Myopia94.jpg,M,G,G,99.179,99.18,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\05_M_to_G_Myopia94_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\M\Myopia82.jpg,M,G,G,99.127,99.13,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\06_M_to_G_Myopia82_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\H\2004_right.jpg,H,D,D,98.998,99.0,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\07_H_to_D_2004_right_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\N\3071_right.jpg,N,D,D,98.426,98.43,False,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\08_N_to_D_3071_right_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\M\1621_right.jpg,M,M,M,99.993,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\09_M_to_M_1621_right_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\M\1569_right.jpg,M,M,M,99.993,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\10_M_to_M_1569_right_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\M\1555_left.jpg,M,M,M,99.991,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\11_M_to_M_1555_left_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\A\0_ORID19_233_ARMD.png,A,A,A,99.989,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\12_A_to_A_0_ORID19_233_ARMD_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\A\0_ORID19_170_ARMD.png,A,A,A,99.986,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\13_A_to_A_0_ORID19_170_ARMD_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\A\0_1kIM_56_ARMD.png,A,A,A,99.987,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\14_A_to_A_0_1kIM_56_ARMD_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\M\1624_right.jpg,M,M,M,99.991,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\15_M_to_M_1624_right_gradcam.png
+D:\gpt\OcuVision-AI\data\preprocessed\C\_110_5076150.jpg,C,C,C,99.985,99.99,True,D:\gpt\OcuVision-AI\results\xception_fold1_improved\gradcam\16_C_to_C__110_5076150_gradcam.png

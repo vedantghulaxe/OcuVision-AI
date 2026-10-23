@@ -1,0 +1,11 @@
+sample,image,true_class,predicted_class,confidence,correct,output_path
+1,2658_left.jpg,N,N,0.48440974950790405,True,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_01_true_N_pred_N.png
+2,cataract_024.png,C,C,0.8043550252914429,True,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_02_true_C_pred_C.png
+3,2675_left.jpg,N,D,0.6857687830924988,False,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_03_true_N_pred_D.png
+4,Glaucoma156.jpg,G,D,0.36208879947662354,False,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_04_true_G_pred_D.png
+5,926_left.jpg,D,D,0.9530757665634155,True,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_05_true_D_pred_D.png
+6,791_left.jpg,D,D,0.7677906155586243,True,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_06_true_D_pred_D.png
+7,Glaucoma561.jpg,G,G,0.7469196915626526,True,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_07_true_G_pred_G.png
+8,2703_left.jpg,N,N,0.45564913749694824,True,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_08_true_N_pred_N.png
+9,3261_left.jpg,N,D,0.653887927532196,False,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_09_true_N_pred_D.png
+10,0_ORID19_193_ARMD.png,A,C,0.6289464235305786,False,D:\gpt\OcuVision-AI\results\inception_v3\gradcam\sample_10_true_A_pred_C.png
